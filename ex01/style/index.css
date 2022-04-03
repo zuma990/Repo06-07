@@ -1,0 +1,21 @@
+div.gallery {
+
+    display:inline-block;
+    width: 380px;
+    margin: 5px;
+    
+}
+
+div.desc {
+    padding: 15px;
+
+}
+h1 {
+    color: #ff2516;
+    text-align: center;
+}
+p {
+    padding: 1px;
+    color: #25beff
+
+}
