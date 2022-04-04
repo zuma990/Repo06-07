@@ -7,6 +7,7 @@ div.gallery {
 }
 
 div.desc {
+    text-align: justify;
     padding: 15px;
 
 }
